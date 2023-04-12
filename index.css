@@ -25,7 +25,7 @@ navbar h1 {
   text-decoration: none;
   padding: 6px;
 }
-.navbara: hover {
+.navbara :hover {
   color: #f1356d;
 }
 .content {
